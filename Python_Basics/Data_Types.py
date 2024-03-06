@@ -1,4 +1,4 @@
-#Fundamental Data Types
+#Fundamental Data Types in Python
 int
 float
 bool
